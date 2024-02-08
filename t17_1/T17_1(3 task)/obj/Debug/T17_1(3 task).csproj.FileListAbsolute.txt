@@ -1,0 +1,8 @@
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\bin\Debug\T17_1(3 task).exe.config
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\bin\Debug\T17_1(3 task).exe
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\bin\Debug\T17_1(3 task).pdb
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\obj\Debug\T17_1(3 task).csproj.AssemblyReference.cache
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\obj\Debug\T17_1(3 task).csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\obj\Debug\T17_1(3 task).csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\obj\Debug\T17_1(3 task).exe
+C:\Users\Kirill\Downloads\t17_1-main\t17_1-main\T17_1(3 task)\obj\Debug\T17_1(3 task).pdb

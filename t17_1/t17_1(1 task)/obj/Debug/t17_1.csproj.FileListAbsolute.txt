@@ -1,0 +1,7 @@
+D:\Овчарук_Марков 215\T16_5\t17_1\bin\Debug\t17_1.exe.config
+D:\Овчарук_Марков 215\T16_5\t17_1\bin\Debug\t17_1.exe
+D:\Овчарук_Марков 215\T16_5\t17_1\bin\Debug\t17_1.pdb
+D:\Овчарук_Марков 215\T16_5\t17_1\obj\Debug\t17_1.csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\T16_5\t17_1\obj\Debug\t17_1.csproj.CoreCompileInputs.cache
+D:\Овчарук_Марков 215\T16_5\t17_1\obj\Debug\t17_1.exe
+D:\Овчарук_Марков 215\T16_5\t17_1\obj\Debug\t17_1.pdb
